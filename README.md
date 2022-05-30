@@ -44,6 +44,7 @@
 - Logs can be found in CloudWatch 
  
  
-
-  
+### References:
+- https://towardsdatascience.com/how-to-deploy-a-flask-api-on-aws-ecs-part-3-c1ca552e65d
+- https://docs.h2o.ai/h2o/latest-stable/h2o-docs/automl.html
  
